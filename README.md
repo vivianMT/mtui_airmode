@@ -1,3 +1,4 @@
+NAME:VIVIAN HUBERT MTUI, REG:14322100/T.24, PROGR:BSC.ITS II.
 MTUI_AIRMODE 
 PROJECT OVERVIEW
 MTUI_AIRMODE is a web‑based airline management system developed using PHP, MySQL, HTML, CSS, and JavaScript. It provides two main roles: Admin and Passenger, enabling efficient management of flights, bookings, payments, and tickets.
@@ -54,3 +55,5 @@ SYSTEM FLOW
 Developed by Vivian Hubert
 advanced web development project 
 2026.
+
+@kadefue
